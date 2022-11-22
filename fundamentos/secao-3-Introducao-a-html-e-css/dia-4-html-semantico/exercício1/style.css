@@ -1,7 +1,7 @@
 *{
     margin: 0;
 }
-#cabeçalho{
+/*#cabeçalho{
     display: flex;
     background-color: blue;
     justify-content: space-between;
@@ -38,4 +38,4 @@
 #navigation-bar li a:hover{
     color: darkgray;
     border: 2px solid black
-}
+}*/

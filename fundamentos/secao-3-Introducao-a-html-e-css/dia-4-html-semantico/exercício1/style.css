@@ -1,13 +1,12 @@
 *{
     margin: 0;
 }
-/*#cabeçalho{
+#cabeçalho{
     display: flex;
     background-color: blue;
     justify-content: space-between;
     margin-left: 0px;
     font-size: 20px;
-    position: fixed;
     z-index: 4;
     width: 100%;
     align-items: center;
@@ -38,4 +37,15 @@
 #navigation-bar li a:hover{
     color: darkgray;
     border: 2px solid black
-}*/
+}
+img{
+    width: 600px;
+}
+.caracteristicas{
+    display: inline-block;
+}
+.fatos{
+    max-width: 40%;
+    display: inline-block;
+    font-size: 22px;
+}

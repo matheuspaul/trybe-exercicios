@@ -9,3 +9,9 @@ const changeToGreenSquare = () => {
     color.style.background = 'rgb(76,164,109)';
 }
 changeToGreenSquare()
+
+const changeToWhiteSquare = () => {
+    let redSquare = document.getElementsByClassName('center-content')[0];
+    redSquare.style.background = 'white';
+}
+changeToWhiteSquare()

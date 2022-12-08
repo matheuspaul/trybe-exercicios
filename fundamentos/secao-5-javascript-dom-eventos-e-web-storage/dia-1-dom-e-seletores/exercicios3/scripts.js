@@ -15,3 +15,9 @@ const changeToWhiteSquare = () => {
     redSquare.style.background = 'white';
 }
 changeToWhiteSquare()
+
+const correctText = () => {
+    let newText = document.getElementsByTagName('h1')[0];
+    newText.innerHTML = 'Desafio - JavaScript'
+}
+correctText()

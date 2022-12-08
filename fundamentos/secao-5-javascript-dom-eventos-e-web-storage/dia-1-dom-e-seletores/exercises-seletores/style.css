@@ -3,16 +3,20 @@
   }
   
   #container {
+    background-color: beige;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
   }
   
   #header-container {
+    background-color: limegreen;
     color: white;
     padding: 20px;
   }
   
   .emergency-tasks {
+    color: white;
+    background-color: pink;
     display: inline-block;
     height: 400px;
     margin: 56px 0;
@@ -23,12 +27,13 @@
     height: 198px;
   }
   .emergency-tasks h3 {
-    color: white;
+    background-color: purple;
     margin-top: 10px;
     padding: 10px;
   }
   
   .no-emergency-tasks {
+    background-color: yellow;
     display: inline-block;
     height: 400px;
     width: 400px;
@@ -40,12 +45,14 @@
   
   .no-emergency-tasks h3 {
     color: white;
+    background-color: black;
     margin-top: 10px;
     padding: 10px;
   }
   
   #footer-container {
     color: white;
+    background-color: darkgreen;
     font-weight: 700;
     padding: 15px;
     text-align: center;

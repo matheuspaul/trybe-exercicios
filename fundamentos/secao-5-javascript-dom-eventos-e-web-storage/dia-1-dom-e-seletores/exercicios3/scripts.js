@@ -4,3 +4,8 @@ const changeText = () => {
 }
 changeText()
 
+const changeToGreenSquare = () => {
+    let color = document.getElementsByClassName('main-content')[0];
+    color.style.background = 'rgb(76,164,109)';
+}
+changeToGreenSquare()

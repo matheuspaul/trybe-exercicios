@@ -21,3 +21,17 @@ const correctText = () => {
     newText.innerHTML = 'Desafio - JavaScript'
 }
 correctText()
+
+const changeFont = () => {
+    let newFont = document.getElementsByTagName('p')[0];
+    newFont.style.textTransform = 'uppercase'
+}
+changeFont()
+
+const showAll = () => {
+    let paragraphs = document.getElementsByTagName('p');
+    for(let index = 0; index < paragraphs.length; index += 1){
+        console.log(paragraphs[index].innerHTML);
+    }
+}
+showAll()

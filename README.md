@@ -36,18 +36,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 4.5: _JavaScript ES6 - let, const, arrow functions, template literals_
 - [x] 4.6: _Projeto Playground Functions_
 
-##### Bloco 5: JavaScript: DOM, Eventos e Web Storage :hourglass_flowing_sand:
+##### Bloco 5: JavaScript: DOM, Eventos e Web Storage :white_check_mark:
 - [x] 5.1 - _JavaScript - DOM e seletores_
-- [ ] 5.2 - _JavaScript - Trabalhando com elementos_
-- [ ] 5.3 - _JavaScript - Eventos_
-- [ ] 5.4 - _JavaScript - Web Storage_
-- [ ] 5.5 - _Fundamentos - JavaScript - Projetos_
-- [ ] 5.5 - _Projeto - Arte com Pixels_
-- [ ] 5.6 - _Projeto - Lista de tarefas_
+- [x] 5.2 - _JavaScript - Trabalhando com elementos_
+- [x] 5.3 - _JavaScript - Eventos_
+- [x] 5.4 - _JavaScript - Web Storage_
+- [x] 5.5 - _Fundamentos - JavaScript - Projetos_
+- [x] 5.5 - _Projeto - Arte com Pixels_
+- [x] 5.6 - _Projeto - Lista de tarefas_
 
 ##### Bloco 6: HTML & CSS: Forms, Flexbox, Responsivo :hourglass_flowing_sand:
-- [ ] 6.1 - _HTML & CSS - Forms_
-- [ ] 6.2 - _Bibliotecas JavaScript e Frameworks CSS_
+- [x] 6.1 - _HTML & CSS - Forms_
+- [x] 6.2 - _Bibliotecas JavaScript e Frameworks CSS_
 - [ ] 6.3 - _CSS Flexbox Parte 1_
 - [ ] 6.4 - _CSS Flexbox Parte 2_
 - [ ] 6.5 - _CSS Responsivo - Mobile First_
